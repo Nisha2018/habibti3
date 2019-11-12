@@ -5286,6 +5286,7 @@ html {
 
 #process .process-step .small{
     text-transform: capitalize;
+    font-size: 13px;
 }
 
 
