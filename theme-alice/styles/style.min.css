@@ -5289,6 +5289,10 @@ html {
     font-size: 13px;
 }
 
+.col-content p.desc{
+    text-align: justify;
+}
+
 
 /*bootstrap navbar override*/
 @media (max-width: 991px) {
