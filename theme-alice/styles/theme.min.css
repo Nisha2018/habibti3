@@ -3925,7 +3925,7 @@ a.colors-e:hover {
 .colors-e .menu-toggle.navbar-toggle span,
 .colors-e .menu-toggle.navbar-toggle span:after,
 .colors-e .menu-toggle.navbar-toggle span:before {
-    background-color: #cb875f
+    background-color: rgb(60, 136, 31);
 }
 
 .colors-e .menu-toggle.show span {
