@@ -3450,6 +3450,14 @@ input.button {
     font-weight: 700
 }
 
+.home-alice .title{
+    font-weight: 400;
+}
+
+.bold{
+    font-weight: 800;
+}
+
 .process-step .title {
     text-align: center;
     margin-top: 0;
